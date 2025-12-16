@@ -8,7 +8,6 @@ A Christmas-themed Towers of Hanoi puzzle game displayed on an 8x32 NeoPixel LED
 
 - **Three difficulty levels**: n=3 (7 moves), n=4 (15 moves), n=5 (31 moves)
 - **Snow timer mode** (n=5 only): Falling snow accumulates as a visual timer—if any column fills to the top, you lose!
-- **Animated feedback**: Blinking source/destination confirmation, intro snow animation
 - **Win animation**: Disco party with color cycling, brightness pulsing, and sparkles
 - **Lose animation**: Screen fills with snow, trees freeze blue, ornaments fall off
 - **Physical button controls**: Three buttons (one per tree) for intuitive gameplay
